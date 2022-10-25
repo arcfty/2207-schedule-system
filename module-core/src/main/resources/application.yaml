@@ -73,8 +73,8 @@ spring:
 
 schedule:
   # 작업 파일 경로
-  local: C:/Users/sonnjh/.archive/scheduler-core.jar
-  remote: C:/Users/sonnjh/.archive/scheduler-remote.jar
+  local: C:/Users/sonnjh/.archive/module-core.jar
+  remote: C:/Users/sonnjh/.archive/module-remote.jar
 
 logging:
   level:
