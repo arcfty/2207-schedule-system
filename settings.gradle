@@ -1,0 +1,4 @@
+rootProject.name = 'schedule-system'
+include 'module-core'
+include 'module-remote'
+
